@@ -1,0 +1,205 @@
+body{
+    background-color: aqua;
+}
+.grid{
+ text-align: center;
+}
+.grid .topnav{
+ padding-top: 100px;
+ color: rgb(202, 74, 74);
+ font-size: 120px;
+}
+.grid .topnav2{
+    padding-top: 100px;
+    color: rgb(69, 51, 117);
+    font-size: 80px;
+   }
+.start{
+    padding: 40px;
+    width: 350px;
+    color: rgb(69, 51, 117);
+    font-size: 80px;
+    background-color: rgb(57, 177, 73);
+    border-radius: 4px;
+    margin-left: 270px;
+    margin-top: 300px;
+}
+.cauhoi1{
+    display: none;
+}
+.cau1{
+    padding: 75px;
+    color: rgb(202, 74, 74);
+    font-size: 100px;
+}
+.tl1c1{
+    padding: 40px;
+    width: 550px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+
+.tl2c1{
+    padding: 40px;
+    width: 200px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 270px;
+    margin-top: 300px;
+}
+.tl22c1{
+    padding: 40px;
+    width: 200px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 270px;
+    display: none;
+}
+.cauhoi2{
+    display: none;
+}
+.cau2{
+    padding: 75px;
+    color: rgb(202, 74, 74);
+    font-size: 100px;
+}
+.tl1c2{
+    padding: 40px;
+    width: 550px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+
+.tl2c2{
+    padding: 40px;
+    width: 200px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 270px;
+    margin-top: 300px;
+}
+.tl22c2{
+    padding: 40px;
+    width: 200px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 270px;
+    display: none;
+}
+.cauhoi3{
+    display: none;
+}
+.cau3{
+    padding: 75px;
+    color: rgb(202, 74, 74);
+    font-size: 100px;
+}
+.tl1c3{
+    padding: 40px;
+    width: 400px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.tl2c3{
+    padding: 40px;
+    width: 200px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 270px;
+    margin-top: 300px;
+}
+.tl22c3{
+    padding: 40px;
+    width: 200px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 270px;
+    display: none;
+}
+.HPBD{
+    display: none;
+}
+.hpbd{
+    padding: 90px;
+    color: rgb(29, 28, 122);
+    font-size: 100px;
+    -webkit-animation: my 700ms infinite;
+    -moz-animation: my 700ms infinite; 
+    -o-animation: my 700ms infinite; 
+    animation: my 700ms infinite;
+}
+@-webkit-keyframes my {
+    0% { color: #34219e; } 
+    50% { color: #fff;  } 
+    100% { color: #621e8f;  } 
+}
+@-moz-keyframes my { 
+    0% { color: #34219e; } 
+    50% { color: #fff;  } 
+    100% { color: #621e8f;  } 
+}
+@-o-keyframes my { 
+    0% { color: #34219e; } 
+    50% { color: #fff;  } 
+    100% { color: #621e8f;  } 
+}
+@keyframes my { 
+    0% { color: #34219e; } 
+    50% { color: #fff;  } 
+    100% { color: #621e8f;  } 
+} 
+img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+.sangtrai{
+    padding: 40px;
+    width: 115px;
+    color: rgb(205, 219, 228);
+    font-size: 80px;
+    background-color: rgb(105, 104, 192);
+    border-radius: 4px;
+    margin-left: 690px;
+    margin-top: 200px;
+}
+.HPBD2{
+    display: none;
+}
+.yeu{
+    text-align: center;
+    padding: 90px;
+    color: rgb(190, 13, 13);
+    font-size: 100px;
+    -webkit-animation: my 700ms infinite;
+    -moz-animation: my 700ms infinite; 
+    -o-animation: my 700ms infinite; 
+    animation: my 700ms infinite;
+}
